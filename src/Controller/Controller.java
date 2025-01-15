@@ -18,7 +18,7 @@ public class Controller {
     }
 
     /**
-     * add
+     * add medicament
      * @param medicament
      */
     public void addMedicament(Medicament medicament){
@@ -26,7 +26,7 @@ public class Controller {
     }
 
     /**
-     * update
+     * update medicament
      * @param medicament
      */
     public void updateMedicament(Medicament medicament){
@@ -34,7 +34,7 @@ public class Controller {
     }
 
     /**
-     * delete
+     * delete medicament
      * @param medicamentID
      */
     public void deleteMedicament(int medicamentID){
@@ -42,7 +42,7 @@ public class Controller {
     }
 
     /**
-     * get all
+     * get all medicament
      * @return
      */
     public List<Medicament> getAllMedicamnet(){
@@ -51,7 +51,7 @@ public class Controller {
 
 
     /**
-     * add
+     * add patient
      * @param patient
      */
     public void addPatient(Patient patient){
@@ -59,7 +59,7 @@ public class Controller {
     }
 
     /**
-     * update
+     * update patient
      * @param patient
      */
     public void updatePatient(Patient patient){
@@ -67,7 +67,7 @@ public class Controller {
     }
 
     /**
-     * delete
+     * delete patient
      * @param patientId
      */
     public void deletePatient(int patientId){
